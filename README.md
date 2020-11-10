@@ -1,3 +1,4 @@
+fork下方便自己维护,主要数组还有点问题
 # PHP Validate
 
 [![License](https://img.shields.io/packagist/l/inhere/php-validate.svg?style=flat-square)](LICENSE)
